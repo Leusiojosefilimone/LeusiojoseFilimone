@@ -8,6 +8,7 @@
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://shahriarshafin.me/">Leusio jose Filimone</a></b>
         </samp>
+        
 </h3>
 <br>
 
@@ -52,7 +53,7 @@
         <!-- Social Links -->
         <p>Find me on</p>
         <!-- Gmail -->
-        <a href="mailto:shafinshahriar340@gmail.com" target="_blank"><img alt="Gmail"
+        <a href="leusiojosefilimone" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
         <!-- Facebook -->
@@ -64,7 +65,7 @@
                 src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
         </a>-->
         <!-- Linkedin -->
-        <a href="" target="_blank"><img alt="Linkedin"
+        <a href="https://www.linkedin.com/in/l%C3%A9usio-jos%C3%A9-filimone-1b0092253/" target="_blank" ><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         
    
