@@ -42,10 +42,14 @@
     <p align="center">
         <br>
         <!-- Activity Widget -->
-        <img alt="Leusio jose filmone's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=Leusiojosefilimone&show_icons=true&theme=dark" />
-        <br>
+             <img alt="Leusio jose filmone's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leusiojosefilimone&layout=compact" />
+         <br>
       
+        <img alt="Leusio jose filmone's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=Leusiojosefilimone&show_icons=true&theme=white" />
+        <br>
+           
        
    
 </details>
