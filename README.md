@@ -17,9 +17,14 @@
         <samp>
                 「 Young dreamer 」
                 <br>
+                <br>
                 「 I am a front-end web developer and passionate React from <b>Mozambique</b> 」
                 <br>
+               「  I usually spend my days coding on particular projects 」
                 <br>
+                「 I speak Portuguese as an official language and English as a second language 」
+                <br>
+                 <br>
         </samp>
         <!-- Programming Languages -->
         <!-- Code logo -->
@@ -44,6 +49,7 @@
         <!-- Activity Widget -->
         <img alt="Leusio jose filmone's GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=Leusiojosefilimone&show_icons=true&theme=white" />
+        <br>
         <br>
            <img alt="Leusio jose filmone's GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leusiojosefilimone&layout=compact" />
