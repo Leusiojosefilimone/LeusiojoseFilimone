@@ -18,7 +18,7 @@
                 「 Young dreamer 」
                 <br>
                 <br>
-                「 I am a front-end web developer and passionate React from <b>Mozambique</b> 」
+                「 I am a front-end web developer and passionate about React from <b>Mozambique</b> 」
                 <br>
                「  I usually spend my days coding on particular projects 」
                 <br>
