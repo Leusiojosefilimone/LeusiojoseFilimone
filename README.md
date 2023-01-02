@@ -18,7 +18,7 @@
                 「 Young dreamer 」
                 <br>
                 <br>
-                「 I am a front-end web developer and passionate about React from <b>Mozambique</b> 」
+                「 I am a front-end web developer and passionate about React i'm from <b>Mozambique</b> 」
                 <br>
                「  I usually spend my days coding on particular projects 」
                 <br>
@@ -41,7 +41,6 @@
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leusiojosefilimone&layout=compact" />
          <br>
        
-   
 </details>
 <br>
 
