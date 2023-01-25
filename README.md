@@ -20,7 +20,7 @@
                 <br>
                「  I usually spend my days coding on particular projects 」
                 <br>
-                「 I speak Portuguese as an official language and English as a second language 」
+                「 I speak Portuguese as official language and English as second language 」
                 <br>
                  <br>
         </samp>
