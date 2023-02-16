@@ -20,6 +20,7 @@
                 <br>
                 「 I speak Portuguese as official language and English as second language 」
                 <br>
+                「Currently looking for an opportunity to work remotely and increase my skills as a front end developer」
                  <br>
         </samp>        
 </p>
