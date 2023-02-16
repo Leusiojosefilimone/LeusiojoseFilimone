@@ -12,9 +12,7 @@
 
 <p align="center">
         <!-- Organisation  -->
-        <samp>
-               
-                <br>
+        <samp>  
                 <br>
                 「 I am a front-end web developer and passionate about React i'm from <b>Mozambique</b> 」
                 <br>
@@ -23,8 +21,7 @@
                 「 I speak Portuguese as official language and English as second language 」
                 <br>
                  <br>
-        </samp>
-        
+        </samp>        
 </p>
     <p align="center">
         <br>
